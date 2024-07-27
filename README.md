@@ -10,6 +10,7 @@
 <p align="center">
     <img src="docs/overview.png" alt="overview" width="90%" />
 </p>
+
 This is the repository of **A Survey of Embodied Learning Methods for
 Object-Centric Robotic Manipulation**, a comprehensive review of latest advancements in object-centric robotic manipulation including embodied perceptual learning, embodied policy learning, and embodied task-oriented learning For details, please refer to:
 
@@ -27,7 +28,7 @@ Object-Centric Robotic Manipulation**, a comprehensive review of latest advancem
 ## 🔥 News
 Last update on 2024/07/27
 
-## :memo: Abstract
+## :hammer: Abstract
 As a rapidly developing and challenging problem in the embodied AI community, embodied learning for object-centric robotic manipulation is essential for the development of next-generation intelligent robots and has attracted considerable interest in recent years. Compared to data-driven machine learning methods, embodied learning places greater emphasis on robot learning through physical interaction with the environment and perceptual feedback, making it particularly suitable for robotic manipulation. In this survey, we comprehensively review the latest advancements in this field and systematically categorize the existing work into three main branches: 1) embodied perceptual learning that aims to predict the object pose and affordance through various data representations; 2) embodied policy learning that plans to generate optimal robotic decisions via methods such as reinforcement learning and imitation learning; 3) embodied task-oriented learning that is designed to optimize the robot’s performance based on the characteristics of different tasks in object grasping and manipulation. We also provide an overview and discussion of public datasets and evaluation metrics, representative applications, current challenges, and potential future research directions. 
 
 ## :pencil: Citation
@@ -43,7 +44,7 @@ Object-Centric Robotic Manipulation},
 ```
 - [Awesome Object-Centric Robotic Manipulation](#awesome-object-centric-robotic-manipulation)
   - [🔥 News](#-news)
-  - [:memo: Abstract](#memo-abstract)
+  - [:hammer: Abstract](#hammer-abstract)
   - [:pencil: Citation](#pencil-citation)
   - [Embodied Perceptual Learning](#embodied-perceptual-learning)
     - [Data Representation](#data-representation)
