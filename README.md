@@ -11,10 +11,9 @@
     <img src="docs/overview.png" alt="overview" width="90%" />
 </p>
 
-This is the repository of **A Survey of Embodied Learning Methods for
-Object-Centric Robotic Manipulation**, a comprehensive review of latest advancements in object-centric robotic manipulation including embodied perceptual learning, embodied policy learning, and embodied task-oriented learning For details, please refer to:
+This is the repository of **A Survey of Embodied Learning for Object-Centric Robotic Manipulation**, a comprehensive review of latest advancements in object-centric robotic manipulation including embodied perceptual learning, embodied policy learning, and embodied task-oriented learning For details, please refer to:
 
-**A Survey of Embodied Learning Methods for Object-Centric Robotic Manipulation** [[Paper]]()
+**A Survey of Embodied Learning for Object-Centric Robotic Manipulation** [[Paper]]()
 
 *Any contributions to this list are most welcome! Please feel free to open issues or create pull requests as follows:*
 
@@ -26,18 +25,17 @@ Object-Centric Robotic Manipulation**, a comprehensive review of latest advancem
 - Submit the pull request to this branch.
 
 ## 🔥 News
-Last update on 2024/07/27
+Last update on 2024/08/14
 
 ## :hammer: Abstract
-As a rapidly developing and challenging problem in the embodied AI community, embodied learning for object-centric robotic manipulation is essential for the development of next-generation intelligent robots and has attracted considerable interest in recent years. Compared to data-driven machine learning methods, embodied learning places greater emphasis on robot learning through physical interaction with the environment and perceptual feedback, making it particularly suitable for robotic manipulation. In this survey, we comprehensively review the latest advancements in this field and systematically categorize the existing work into three main branches: 1) embodied perceptual learning that aims to predict the object pose and affordance through various data representations; 2) embodied policy learning that plans to generate optimal robotic decisions via methods such as reinforcement learning and imitation learning; 3) embodied task-oriented learning that is designed to optimize the robot’s performance based on the characteristics of different tasks in object grasping and manipulation. We also provide an overview and discussion of public datasets and evaluation metrics, representative applications, current challenges, and potential future research directions. 
+Embodied learning for object-centric robotic manipulation is a rapidly developing and challenging area in embodied AI. It is crucial for advancing next-generation intelligent robots and has garnered significant interest recently. Unlike data-driven machine learning methods, embodied learning focuses on robot learning through physical interaction with the environment and perceptual feedback, making it especially suitable for robotic manipulation. In this paper, we provide a comprehensive survey of the latest advancements in this field and categorize the existing work into three main branches: 1) Embodied perceptual learning, which aims to predict object pose and affordance through various data representations; 2) Embodied policy learning, which focuses on generating optimal robotic decisions using methods such as reinforcement learning and imitation learning; 3) Embodied task-oriented learning, designed to optimize the robot's performance based on the characteristics of different tasks in object grasping and manipulation. In addition, we offer an overview and discussion of public datasets, evaluation metrics, representative applications, current challenges, and potential future research directions.
 
 ## :pencil: Citation
 
 ```bib
 @article{xx,
   author= {xx},
-  title= {A Survey of Embodied Learning Methods for
-Object-Centric Robotic Manipulation},
+  title= {A Survey of Embodied Learning for Object-Centric Robotic Manipulation},
   journal={arXiv preprint arXiv:2407.xxxxx},
   year={2024}
 }
