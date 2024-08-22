@@ -13,7 +13,7 @@
 
 This is the repository of **A Survey of Embodied Learning for Object-Centric Robotic Manipulation**, a comprehensive review of latest advancements in object-centric robotic manipulation including embodied perceptual learning, embodied policy learning, and embodied task-oriented learning For details, please refer to:
 
-**A Survey of Embodied Learning for Object-Centric Robotic Manipulation** [[Paper]]()
+**A Survey of Embodied Learning for Object-Centric Robotic Manipulation** [[Paper]](https://arxiv.org/abs/2408.11537)
 
 *Any contributions to this list are most welcome! Please feel free to open issues or create pull requests as follows:*
 
