@@ -3,7 +3,7 @@
 # Awesome Object-Centric Robotic Manipulation 
 [![Arxiv](https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green)](https://arxiv.org/abs/2408.11537)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](LICENSE) 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/RayYoh/OCRM_survey/pulse) 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 </div>
