@@ -1,6 +1,7 @@
 <div align="center">
 
 # Awesome Object-Centric Robotic Manipulation 
+[![Arxiv](https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green)](https://arxiv.org/abs/2408.11537)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](LICENSE) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
@@ -25,7 +26,7 @@ This is the repository of **A Survey of Embodied Learning for Object-Centric Rob
 - Submit the pull request to this branch.
 
 ## 🔥 News
-Last update on 2024/08/14
+Last update on 2024/08/22
 
 ## :hammer: Abstract
 Embodied learning for object-centric robotic manipulation is a rapidly developing and challenging area in embodied AI. It is crucial for advancing next-generation intelligent robots and has garnered significant interest recently. Unlike data-driven machine learning methods, embodied learning focuses on robot learning through physical interaction with the environment and perceptual feedback, making it especially suitable for robotic manipulation. In this paper, we provide a comprehensive survey of the latest advancements in this field and categorize the existing work into three main branches: 1) Embodied perceptual learning, which aims to predict object pose and affordance through various data representations; 2) Embodied policy learning, which focuses on generating optimal robotic decisions using methods such as reinforcement learning and imitation learning; 3) Embodied task-oriented learning, designed to optimize the robot's performance based on the characteristics of different tasks in object grasping and manipulation. In addition, we offer an overview and discussion of public datasets, evaluation metrics, representative applications, current challenges, and potential future research directions.
@@ -33,10 +34,10 @@ Embodied learning for object-centric robotic manipulation is a rapidly developin
 ## :pencil: Citation
 
 ```bib
-@article{xx,
-  author= {xx},
+@article{zheng2024ocrm,
+  author= {Zheng, Ying and Yao, Lei and Su, Yuejiao and Zhang, Yi and Wang, Yi and Zhao, Sicheng and Zhang, Yiyi and Chau, Lap-Pui},
   title= {A Survey of Embodied Learning for Object-Centric Robotic Manipulation},
-  journal={arXiv preprint arXiv:2407.xxxxx},
+  journal={arXiv preprint arXiv:2408.11537},
   year={2024}
 }
 ```
