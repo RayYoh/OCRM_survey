@@ -496,7 +496,8 @@ Other representations
 |[PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/pdf/2303.03378)|ICML 2023|[Project](https://palm-e.github.io/)|
 |[ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_ManipLLM_Embodied_Multimodal_Large_Language_Model_for_Object-Centric_Robotic_Manipulation_CVPR_2024_paper.pdf)|CVPR 2024|[Project](https://sites.google.com/view/manipllm)|
 |[Reasoning Tuning Grasp: Adapting Multi-Modal Large Language Models for Robotic Grasping](https://openreview.net/pdf?id=3mKb5iyZ2V)|CoRLW 2023|[Project](https://sites.google.com/view/rt-grasp)|
-|[ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models](https://arxiv.org/pdf/2403.11289)|arXiv 2024|[Code](https://github.com/SiyuanHuang95/ManipVQA)|
+|[ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models](https://arxiv.org/pdf/2403.11289)|IROS 2024|[Code](https://github.com/SiyuanHuang95/ManipVQA)|
+|[A3VLM: Actionable Articulation-Aware Vision Language Mode](https://arxiv.org/abs/2406.07549)|arxiv 2024|[Code](https://github.com/changhaonan/A3VLM)|
 
 ### Human-Robot Collaboration
 
