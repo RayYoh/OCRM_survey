@@ -282,6 +282,7 @@ Other representations
 |[Grounding Multimodal Large Language Models in Actions](https://arxiv.org/pdf/2406.07904)|arXiv 2024|-|
 |[OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/pdf/2108.03298)|arXiv 2024|[Project](https://openvla.github.io/)|
 |[3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/pdf/2403.09631)|ICML 2024|[Code](https://vis-www.cs.umass.edu/3dvla/)|
+|[RoboMP2: A Robotic Multimodal Perception-Planning Framework with Multimodal Large Language Models](https://arxiv.org/abs/2404.04929)|ICML 2024|[Project](https://aopolin-lv.github.io/RoboMP2.github.io/)|
 
 ## Embodied Task-Oriented Learning
 ### Object Grasping
