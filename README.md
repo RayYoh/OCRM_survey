@@ -298,6 +298,8 @@ Other representations
 |[Dynamic grasp and trajectory planning for moving objects](https://link.springer.com/content/pdf/10.1007/s10514-018-9799-1.pdf)|Autonomous Robots 2019|-|
 |[Closing the Loop for Robotic Grasping: A Real-time, Generative Grasp Synthesis Approach](https://arxiv.org/pdf/1804.05172)|RSS 2018|[Code](https://github.com/dougsm/ggcnn)|
 |[DITTO: Demonstration Imitation by Trajectory Transformation](https://arxiv.org/pdf/2403.15203)|Autonomous Robots 2019|[Project](http://ditto.cs.uni-freiburg.de/)|
+|[D-Grasp: Physically Plausible Dynamic Grasp Synthesis for Hand-Object Interactions](https://arxiv.org/abs/2112.03028)|CVPR 2022|[Project](https://eth-ait.github.io/d-grasp/)|
+|[GraspXL: Generating Grasping Motions for Diverse Objects at Scale](https://arxiv.org/pdf/2403.19649)|ECCV 2024|[Project](https://eth-ait.github.io/graspxl/)|
 
 **Transparent Object Grasping.**
 
@@ -337,6 +339,7 @@ Other representations
 |[GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation Demonstration and Imitation](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_GenH2R_Learning_Generalizable_Human-to-Robot_Handover_via_Scalable_Simulation_Demonstration_and_CVPR_2024_paper.pdf)|CVPR 2024|[Project](https://GenH2R.github.io)|
 |[Dynamic Grasping with Reachability and Motion Awareness](https://arxiv.org/pdf/2103.10562)|IROS 2021|[Project](https://crlab.cs.columbia.edu/dynamic_grasping/)|
 |[Target-referenced Reactive Grasping for Dynamic Objects](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Target-Referenced_Reactive_Grasping_for_Dynamic_Objects_CVPR_2023_paper.pdf)|CVPR 2023|[Project](https://graspnet.net/reactive)|
+|[ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation](https://arxiv.org/pdf/2309.03891)|3DV 2024|[Project](https://eth-ait.github.io/artigrasp/)|
 
 #### Multi-Object Grasping
 
