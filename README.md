@@ -187,6 +187,7 @@ Other representations
 |[Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation](https://arxiv.org/pdf/2401.07487)|ECCV 2024|[Porject](https://tea-lab.github.io/Robo-ABC/)|
 |[RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation](https://arxiv.org/pdf/2407.04689)|arXiv 2024|[Project](https://yxkryptonite.github.io/RAM/)|
 |[Open-Vocabulary Affordance Detection in 3D Point Clouds](https://arxiv.org/pdf/2303.02401)|IROS 2023|[Project](https://openad2023.github.io/)|
+|[Learning 2D Invariant Affordance Knowledge for 3D Affordance Grounding](https://arxiv.org/pdf/2408.13024)|arXiv 2024|[Code](https://goxq.github.io/mifag)|
 
 #### Affordance Learning From Interaction
 
