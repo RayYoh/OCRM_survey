@@ -13,11 +13,11 @@
 </p>
 
 This is the repository of **A Survey of Embodied Learning for Object-Centric Robotic Manipulation**, a comprehensive review of latest advancements in object-centric robotic manipulation including embodied perceptual learning, embodied policy learning, and embodied task-oriented learning. For details, please refer to:
-<div align="center">
-  <b><a style="font-size: 20px;" href="https://arxiv.org/abs/2408.11537">A Survey of Embodied Learning for Object-Centric Robotic Manipulation</a></b>
+<div align="center" style="font-size: 22px">
+  <b><a href="https://arxiv.org/abs/2408.11537">A Survey of Embodied Learning for Object-Centric Robotic Manipulation</a></b>
 </div>
 
-<p style="font-size: 18px; font-style: italic;">Any contributions to this list are most welcome! Please feel free to open issues or create pull requests as follows: </p>
+<div style="font-size: 18px; font-style: italic;">Any contributions to this list are most welcome! Please feel free to open issues or create pull requests as follows: </div>
 
 - Fork the project into your own repository.
 - Add the Title, Paper link, Venue, Code/Project link in `README.md` using the following format:
