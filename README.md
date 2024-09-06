@@ -341,7 +341,9 @@ Other representations
 |[Predicting Human Intentions in Human–Robot Hand-Over Tasks Through Multimodal Learning](https://par.nsf.gov/servlets/purl/10274312)|TASE 2021|-|
 |[Reactive Human-to-Robot Handovers of Arbitrary Objects](https://arxiv.org/pdf/2011.08961)|ICRA 2021|[Project](https://sites.google.com/nvidia.com/handovers-of-arbitrary-objects)|
 |[Flexible Handover with Real-Time Robust Dynamic Grasp Trajectory Generation](https://arxiv.org/pdf/2308.15622)|IROS 2023|-|
+|[Learning Human-to-Robot Handovers from Point Clouds](https://arxiv.org/pdf/2303.17592)|CVPR 2023|[Project](https://handover-sim2real.github.io)|
 |[GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation Demonstration and Imitation](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_GenH2R_Learning_Generalizable_Human-to-Robot_Handover_via_Scalable_Simulation_Demonstration_and_CVPR_2024_paper.pdf)|CVPR 2024|[Project](https://GenH2R.github.io)|
+|[SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers](https://arxiv.org/pdf/2311.05599)|ICRA 2024|[Project](https://eth-ait.github.io/synthetic-handovers)|
 |[Dynamic Grasping with Reachability and Motion Awareness](https://arxiv.org/pdf/2103.10562)|IROS 2021|[Project](https://crlab.cs.columbia.edu/dynamic_grasping/)|
 |[Target-referenced Reactive Grasping for Dynamic Objects](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Target-Referenced_Reactive_Grasping_for_Dynamic_Objects_CVPR_2023_paper.pdf)|CVPR 2023|[Project](https://graspnet.net/reactive)|
 |[ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation](https://arxiv.org/pdf/2309.03891)|3DV 2024|[Project](https://eth-ait.github.io/artigrasp/)|
