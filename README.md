@@ -314,7 +314,7 @@ Other representations
 |[Dex-NeRF: Using a Neural Radiance Field to Grasp Transparent Objects](https://arxiv.org/pdf/2110.14217)|CoRL 2021|[Project](https://sites.google.com/view/dex-nerf)|
 |[Evo-NeRF: Evolving NeRF for Sequential Robot Grasping of Transparent Objects](https://openreview.net/forum?id=Bxr45keYrf)|CoRL 2022|[Project](https://sites.google.com/view/evo-nerf)|
 |[Graspnerf: Multiview-based 6-dof grasp detection for transparent and specular objects using generalizable nerf](https://arxiv.org/pdf/2210.06575)|ICRA 2023|[Project](https://pku-epic.github.io/GraspNeRF/)|
-|[NFL: Normal Field Learning for 6-DoF Grasping of Transparent Objects](https://3d.snu.ac.kr/assets/NFL/NFL_RAL_final.pdf)|RAL 2023|-|
+|[NFL: Normal Field Learning for 6-DoF Grasping of Transparent Objects](https://3d.snu.ac.kr/assets/NFL/NFL_RAL_final.pdf)|RAL 2023|[Project](https://3d.snu.ac.kr/publications/NFL)|
 |[TRansPose: Large-scale multispectral dataset for transparent object](https://arxiv.org/pdf/2307.05016)|IJRR 2024|[Project](https://sites.google.com/view/transpose-dataset)|
 |[TODE-Trans: Transparent Object Depth Estimation with Transformer](https://arxiv.org/pdf/2209.08455)|ICRA 2023|[Code](https://github.com/yuchendoudou/TODE)|
 
